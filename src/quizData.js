@@ -16,7 +16,7 @@ const quizData = [
     },
     {
       question: "Which film is known for the famous quote, I'll be back?",
-      options: ["Shrek", "Jumanji", "The Matrix", " The Terminator"],
+      options: ["Shrek", "Jumanji", "The Matrix", "The Terminator"],
       answer: "The Terminator"
     },
     {
@@ -51,7 +51,7 @@ const quizData = [
     },  
     {
       question: "In The Matrix, what color pill does Neo take?",
-      options: ["Purplek", "Blue", "Green", "Red"],
+      options: ["Purple", "Blue", "Green", "Red"],
       answer: "Red"
     },
     {
