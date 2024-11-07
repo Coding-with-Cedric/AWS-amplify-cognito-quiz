@@ -1,23 +1,23 @@
 const quizData = [
     {
-      question: "What was the first video game ever made?",
-      options: ["Pong", "Spacewar!", "Tetris", "Computer Space"],
-      answer: "Spacewar!"
+      question: "In the Harry Potter series, what is the name of Harry's pet owl?",
+      options: ["Hedwig", "Errol", "Hermes", "Bubo"],
+      answer: "Hedwig"
     },
     {
-      question: "Which company developed the first commercial antivirus software?",
-      options: ["Symantec", "McAfee", "Norton", "Kaspersky Lab"],
-      answer: "McAfee"
+      question: "In the movie Star Wars, who said I am your father?",
+      options: ["Yoda", "Obi-Wan Kenobi", "Darth Vader", "Captain Kirk"],
+      answer: "Darth Vader"
     },
     {
-      question: "Which animal is featured in the official PHP logo?",
-      options: ["Elephant", "Hippo", "Giraffe", "Lion"],
-      answer: "Elephant"
+      question: "What year was the first Toy Story movie released?",
+      options: ["1996", "1995", "1997", "1998"],
+      answer: "1995"
     },
     {
-      question: "What does 'HTTP' stand for?",
-      options: ["HyperText Transfer Protocol", "Hyperlink Transfer Technology Protocol", "Hyperlink Text Transfer Protocol", "HyperText Technology Protocol"],
-      answer: "HyperText Transfer Protocol"
+      question: "Which film is known for the famous quote, I'll be back?",
+      options: ["Shrek", "Jumanji", "The Matrix", " The Terminator"],
+      answer: "The Terminator"
     },
     {
       question: "Which programming language is known as the backbone of the World Wide Web?",
